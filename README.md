@@ -8,7 +8,7 @@ For reporting, discussing, tracking, and managing bugs, feature suggestions, and
 * [Chinese 中文](https://gitee.com/turtle-sim/physics-lab-issue-tracker)
 
 ## Open Source
-Currently, Physics Lab does not open source. Please contact [@John Chen](https://gitee.com/civitasjohn) if you are interested in participating in our development.
+Physics Lab AR welcomes your contribution. However, due to the existence of third-party libraries, we cannot open-source everything to everyone. Please contact [@John Chen](https://gitee.com/civitasjohn) if you want to contribute to our development.
 
 ## Open Testing
 Beta versions of Physics Lab are regularly updated in the Volunteers Group. iOS beta versions are available through [Testflight](https://testflight.apple.com/join/tGtt3yIq).
